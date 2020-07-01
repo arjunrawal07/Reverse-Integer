@@ -2,7 +2,7 @@
 Daily Code Challenge
 
 # About
-To keep my skills sharp, I am working through daily code challenges offerred by (leetcode.com).
+To keep my skills sharp, I am working through daily code challenges offerred by <leetcode.com>.
 
 # Challenge
 Given a 32-bit signed integer, reverse digits of an integer.
